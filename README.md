@@ -1,3 +1,3 @@
 # C#
 
-This repo is for various C# projects.
+Repo for various C# projects.
